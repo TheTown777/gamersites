@@ -1,6 +1,6 @@
 ## About me
 
-I am 11 and i really like the wii and old tech in general
+  i really like the wii and old tech in general
 
 ### My Accounts
 
