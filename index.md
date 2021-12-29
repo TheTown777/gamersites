@@ -15,7 +15,7 @@ Discord = WindowsXPFan#1786
 ```markdown
 #ooh a code block lets make this batch code
 @echo off
-a
+:a
 echo wii
 pause
 goto a
