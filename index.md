@@ -1,29 +1,24 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/TheTown777/gamersites/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am 11 and i really like the wii and old tech in general
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Accounts
 
-### Markdown
+[Roblox](https://web.roblox.com/users/1040727458/profile)
+Discord = WindowsXPFan#1786
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My favorite games
+
+1.Roblox
+2.Minecraft
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#ooh a code block lets make this batch code
+@echo off
+a
+echo wii
+pause
+goto a
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
