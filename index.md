@@ -30,4 +30,4 @@ yes i do
 
 ### wii
 
-wii wii wii wiiiiiiiiiiiiiiiiiiiiiii
+[wii wii wii wiiiiiiiiiiiiiiiiiiiiiii](https://thetown777.github.io/gamersites/wii.html)
